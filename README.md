@@ -103,7 +103,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
    **Why These Goals Matter To Me**
 
-   - These Goals Matter To Me Because Getting A Full-Time Developer Job Will Give Me Stability And Experience. Learning Backend Development Will Make Me A More Well-Rounded Developer With More Job Opportunities. Working On A Personal Project Will Help Me Apply What I’ve Learned And Build A Solid Portfolio. Keeping Up With New Technologies Will Help Me Stay Competitive In The Fast-Changing Tech World.
+   - These Goals Matter To Me Because Getting A Full-Time Developer Job Will Give Me Stability And Experience.
+   - Learning Backend Development Will Make Me A More Well-Rounded Developer With More Job Opportunities.
+   - Working On A Personal Project Will Help Me Apply What I’ve Learned And Build A Solid Portfolio.
+   - Keeping Up With New Technologies Will Help Me Stay Competitive In The Fast-Changing Tech World.
 
 ### Part 4: Action Plan
 
