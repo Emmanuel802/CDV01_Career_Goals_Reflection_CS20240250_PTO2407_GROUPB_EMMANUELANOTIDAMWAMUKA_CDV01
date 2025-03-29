@@ -85,13 +85,25 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
 
-   - List your specific, measurable, achievable, relevant, and time-bound goals.
-   - Explain the rationale behind each goal.
+   - Complete My Software Development Course At CodeSpace.
+   - Build Atleast 5 Full Projects (Websites, Apps) To Showcase My Skills.
+   - Improve My JavaScript Skills And Learn React.js For Front-End Development
+   - Apply For Interships Or Entry-Level Roles To Gain Real-World Experiences.
+
+   **Rationale**
+
+   - These Goals Will Help Me Build My Portfolio, Gain Confidence, And Get My Foot In The Industry.
 
 2. **Long-term Goals** (3-5 years and beyond):
 
-   - Outline your long-term career aspirations.
-   - Describe how these align with your interests and skills.
+   - Secure A Full-Time Job As A Frontend Or Full-Stack Developer.
+   - Expand Into Backend Development To Become A Well-Rounded Developer.
+   - Work On A Personal Project.
+   - Continue Learning Advanced Technologies To Stay Competitive In The Field.
+
+   **Why These Goals Matter To Me**
+
+   - These Goals Matter To Me Because Getting A Full-Time Developer Job Will Give Me Stability And Experience. Learning Backend Development Will Make Me A More Well-Rounded Developer With More Job Opportunities. Working On A Personal Project Will Help Me Apply What I’ve Learned And Build A Solid Portfolio. Keeping Up With New Technologies Will Help Me Stay Competitive In The Fast-Changing Tech World.
 
 ### Part 4: Action Plan
 
