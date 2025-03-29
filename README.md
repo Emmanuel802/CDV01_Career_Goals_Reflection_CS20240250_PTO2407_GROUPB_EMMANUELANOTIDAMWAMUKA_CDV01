@@ -22,7 +22,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Part 1: Self-Assessment Reflection
 
-##### 1. **Skills Analysis**
+#### 1. **Skills Analysis**
 
 **Current Skills:**
 
@@ -36,7 +36,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 - Advanced Concepts of Software Development
 - Mastering CSS for better UI/UX
 
-##### 2. **Interests and Values**
+#### 2. **Interests and Values**
 
 **Career Key Interests:**
 
@@ -52,15 +52,34 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Part 2: Career Exploration Insights
 
-1. **Industries and Roles Explored**:
+#### 1. **Industries and Roles Explored**
 
-   - List the industries or roles you have researched.
-   - Note any particular areas that piqued your interest.
+**Industries And Roles Explored:**
 
-2. **Alignment with Personal Profile**:
+- Software Development
+- Web Development
+- Game Development
 
-   - Reflect on how these industries/roles align with your skills, interests, and values.
-   - Identify any gaps or areas for further exploration.
+**Particular Areas That Piqued My Interest:**
+
+- Responsive Web Design
+- User Interface(UI) Design
+- Interactivity with JavaScript
+- Full-Stack Development
+
+#### 2. **Alignment with Personal Profile**
+
+**How These Industries/Roles Fit My Skills, Interest & Values:**
+
+- Front-End Development - Aligns With My Interest In Design And Coding
+- Software Development - Gives Me The Oppotunity To Improve Problem-Solving And Coding Skills
+- Full-Stack Development - Gives Me The Flexibility To Work On Both Front-End & Back-End To Understand How Everything Fits Together
+
+**Gaps Or Areas For Further Exploration:**
+
+- JavaScript Mastery - Improve Understanding Of JavaScript For Interactivity And Functionality
+- Back-end Development - Learn About APIs, And Server-Side Logic
+- Problem-Solving Skills - Practice Coding Challenges To Improve Logic And Debugging
 
 ### Part 3: SMART Career Goals
 
