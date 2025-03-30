@@ -91,7 +91,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Part 3: SMART Career Goals
 
-#### 1. **Short-term Goals** (Next 1-2 years):
+#### 1. **Short-term Goals** (Next 1-2 years)
 
 - Complete my Software Development Course at CodeSpace.
 - Build at least 5 full projects (websites, apps) to showcase my skills.
@@ -102,7 +102,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 - These goals will help me build my portfolio, gain confidence, and get my foot in the industry.
 
-#### 2. **Long-term Goals** (3-5 years and beyond):
+#### 2. **Long-term Goals** (3-5 years and beyond)
 
 - Secure a full-time job as a frontend or full-stack developer.
 - Expand into backend development to become a well-rounded developer.
@@ -210,3 +210,5 @@ By completing this reflection, you will gain a clearer understanding of your car
 - You will fill in your reflections for each section under Parts 1 to 5.
 - Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
 - You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+
+[View my Career Goals Reflection Template](https://docs.google.com/document/d/1QVrpDIMOy4Fnwf9HA7g02rStL-tMqwcIazd3zt2ieuo/edit?tab=t.0#heading=h.kfa7kn13f0k3)
